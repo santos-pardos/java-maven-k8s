@@ -1,4 +1,4 @@
-# Install JRE JDF
+# Install JRE JDF and Maven
  jre  
  
  sudo dnf install java-1.8.0-amazon-corretto  
@@ -6,6 +6,10 @@
  jdk  
  
  sudo dnf install java-1.8.0-amazon-corretto-devel
+
+ maven
+
+ sudo dnf install maven
 
 
 # Spring Boot based Java web application
