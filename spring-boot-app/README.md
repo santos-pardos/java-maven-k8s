@@ -1,3 +1,13 @@
+# Install JRE JDF
+ jre  
+ 
+ sudo dnf install java-1.8.0-amazon-corretto  
+ 
+ jdk  
+ 
+ sudo dnf install java-1.8.0-amazon-corretto-devel![image](https://github.com/santos-pardos/java-maven-k8s/assets/66181446/8b07fb49-6db9-404e-811b-957f2f87f1a5)
+
+
 # Spring Boot based Java web application
  
 This is a simple Sprint Boot based Java application that can be built using Maven. Sprint Boot dependencies are handled using the pom.xml 
