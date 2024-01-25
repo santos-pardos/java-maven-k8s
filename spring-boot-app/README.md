@@ -5,7 +5,7 @@
  
  jdk  
  
- sudo dnf install java-1.8.0-amazon-corretto-devel![image](https://github.com/santos-pardos/java-maven-k8s/assets/66181446/8b07fb49-6db9-404e-811b-957f2f87f1a5)
+ sudo dnf install java-1.8.0-amazon-corretto-devel
 
 
 # Spring Boot based Java web application
